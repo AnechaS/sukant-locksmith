@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ช่างกุญแจเทพา.store/sitemap.xml
